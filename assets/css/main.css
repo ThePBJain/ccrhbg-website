@@ -3272,13 +3272,13 @@
 			height: inherit;
 			left: 1.25em;
 			line-height: inherit;
-			position: absolute;
+			position: relative;
 			top: 0;
 		}
 
 			#header h1 a {
 				border: 0;
-				display: block;
+				padding:1%;
 				height: inherit;
 				line-height: inherit;
 			}
